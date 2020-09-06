@@ -22,5 +22,8 @@
 
 **Social Media:**
 
-<a href="https://instagram.com/rajesh.codes_" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/instagram.svg" alt="rajesh.codes_" height="20" width="25" /></a>
+
+<a href="https://twitter.com/Rajesh_Osi" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/100/000000/twitter.png" alt="rajesh_Osi" height="36" width="36" /></a>
+<a href="https://instagram.com/rajesh.codes_" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/instagram.svg" alt="rajesh.codes_" height="30" width="30" /></a>
+
 
