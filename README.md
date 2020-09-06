@@ -20,7 +20,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-<a href="https://github.com/Rajesh-Paswan">
+<a href="https://github.com/rajesh545862">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh545862&theme=dark&hide_langs_below=1" />
 </a>
 
