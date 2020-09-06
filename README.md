@@ -25,5 +25,8 @@
 
 <a href="https://twitter.com/Rajesh_Osi" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/100/000000/twitter.png" alt="rajesh_Osi" height="36" width="36" /></a>
 <a href="https://instagram.com/rajesh.codes_" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/instagram.svg" alt="rajesh.codes_" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rajeshpaswan" target="blank"><img align="center" src="https://img.icons8.com/android/24/000000/linkedin.png" alt="Rajesh Paswan" height="30" width="30" /></a>
+<a href="https://dev.to/rajesh545862" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="Rajesh Paswan" height="50" width="35" /></a>
+
 
 
