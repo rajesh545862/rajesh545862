@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on **Some cool projects using Python**
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 - 📫 How to reach me: **rk.paswan5458@gmail.com** 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rajesh545862" alt="Rajesh-Paswan" />
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-red" alt="pronouns: He/Him" /> 
@@ -13,6 +12,8 @@
 <p>
   <img  align='center' width="200" src="https://github.com/rajesh545862/rajesh545862/blob/master/octocat.png">
 </p>
+   
+   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh545862&layout=compact&theme=radical" />
 
 **Languages and Tools:**
 
@@ -28,7 +29,6 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="30" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"></code>
 
-
 **Social Media:**
 
 
@@ -37,6 +37,7 @@
 <a href="https://www.linkedin.com/in/rajeshpaswan" target="blank"><img align="center" src="https://img.icons8.com/android/24/000000/linkedin.png" alt="Rajesh Paswan" height="30" width="30" /></a>
 <a href="https://dev.to/rajesh545862" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="Rajesh Paswan" height="50" width="35" /></a>
 <a href="https://codesandbox.io/u/Rajesh%20Paswan" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/codesandbox.png" alt="Rajesh Paswan" height="30" width="30" /></a>
+
 
 
 
