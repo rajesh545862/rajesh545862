@@ -32,6 +32,8 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="30" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/django.png"></code>
+
 
 
 
@@ -46,9 +48,6 @@
 <a href="https://codesandbox.io/u/Rajesh%20Paswan" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/codesandbox.png" alt="Rajesh Paswan" height="30" width="30" /></a>
 
 <!--  SPOTIFY-->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f9bzcl5cicq820ww5q6sbsvag&cover_image=true)](https://github.com/rajesh545862/spotify-github-profile)
-
 
 
 
