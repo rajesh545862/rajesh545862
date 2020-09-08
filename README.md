@@ -9,7 +9,7 @@
 </p>
 
 <!-- GitHub Stats-->
-<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajesh545&show_icons=true&hide_border=true" />
+<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajesh545862&show_icons=true&hide_border=true" />
 <!--Octocat Image-->
 <p>
   <img  align='center' width="200" src="https://github.com/rajesh545862/rajesh545862/blob/master/octocat.png">
