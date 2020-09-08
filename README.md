@@ -45,7 +45,9 @@
 <a href="https://dev.to/rajesh545862" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="Rajesh Paswan" height="50" width="35" /></a>
 <a href="https://codesandbox.io/u/Rajesh%20Paswan" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/codesandbox.png" alt="Rajesh Paswan" height="30" width="30" /></a>
 
-<!--This is not The Ending-->
+<!--  SPOTIFY-->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f9bzcl5cicq820ww5q6sbsvag&cover_image=true)](https://github.com/rajesh545862/spotify-github-profile)
 
 
 
