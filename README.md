@@ -28,13 +28,14 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
+</BR>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
 <code><img height="35" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-<br/>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
 <code><img height="30" src="https://img.icons8.com/fluent/50/000000/android-os.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"></code>
+<br/>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="30" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/django.png"></code>
