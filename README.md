@@ -15,9 +15,8 @@
   <img  align='center' width="200" src="https://github.com/rajesh545862/rajesh545862/blob/master/octocat.png">
 </p>
  
- <!--Top Languages--> 
-   <!--img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh545862&layout=compact&theme=radical" />
-
+## TOP LANGUAGES
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh545862&theme=radical&title_color=8E2DE2&text_color=fff&width=100%)
 
 <!--Languages & Tools-->
 **Languages and Tools:**
