@@ -1,4 +1,4 @@
-<img align="center" height="673" width="1920" src="https://github.com/rajesh545862/rajesh545862/blob/master/int-image.png"/>
+<img align="center" height="350" width="1920" src="https://github.com/rajesh545862/rajesh545862/blob/master/int-image1.png"/>
 
 
 ### Hi,I'm [ Rajesh Paswan!](https://www.linkedin.com/in/rajeshpaswan)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
