@@ -1,7 +1,7 @@
 <img align="center" heigh="350" idth="1920" src="https://github.com/rajesh545862/rajesh545862/blob/master/int-image1.png"/>
 
 
-### Hi,I'm [ Rajesh Paswan!](https://www.linkedin.com/in/rajeshpaswan)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [ Rajesh Paswan!](https://www.linkedin.com/in/rajeshpaswan)
 - 🔭 I’m currently working on **Some cool projects using Python**
 - 🌱 I’m currently learning **Flutter and Machine Learning**
 - 📫 How to reach me: **rk.paswan5458@gmail.com** 
