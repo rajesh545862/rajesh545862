@@ -1,65 +1,138 @@
-<img align="center" heigh="350" idth="1920" src="https://github.com/rajesh545862/rajesh545862/blob/master/int-image1.png"/>
+<!-- Hero Banner -->
 
+<p align="center">
+  <img src="https://github.com/rajesh545862/rajesh545862/blob/master/int-image1.png" width="100%" alt="Rajesh Paswan Banner" />
+</p>
 
-### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [ Rajesh Paswan.](https://www.linkedin.com/in/rajeshpaswan)
-- 🔭 I’m currently working on **Some cool projects using Python**
-- 🌱 I’m currently learning **Flutter and Machine Learning**
-- 📫 How to reach me: **rk.paswan5458@gmail.com** 
-<!--Visit Counter & Pronouns -->
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Rajesh Paswan
+</h1>
+
+<h3 align="center">
+Full Stack Developer • DevOps Engineer • Cloud & Security Enthusiast
+</h3>
+
+<p align="center">
+Building scalable applications, automating deployments, and securing production systems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajeshpaswan">LinkedIn</a> •
+  <a href="mailto:rk.paswan5458@gmail.com">Email</a> •
+  <a href="https://github.com/rajesh545862">GitHub</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🔭 Working on **production web applications and cloud infrastructure**
+* 🚀 Deploying applications using **Docker, Nginx, PM2, GitHub Actions, and AWS**
+* 🌱 Currently learning **Kubernetes, Terraform, DevSecOps, and advanced AWS architecture**
+* 🛡️ Interested in **cloud security, incident response, and secure infrastructure**
+* 💬 Ask me about **Node.js, Next.js, Linux, AWS, Docker, Nginx, and deployment automation**
+* 📫 Reach me at: **[rk.paswan5458@gmail.com](mailto:rk.paswan5458@gmail.com)**
+
+---
+
+### 👀 Profile Views
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajesh545862" alt="Rajesh-Paswan" />
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-red" alt="pronouns: He/Him" /> 
+  <img src="https://komarev.com/ghpvc/?username=rajesh545862&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- GitHub Stats-->
-<img align="left" alt="Rajesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajesh545862&show_icons=true&hide_border=true" />
-<!--Octocat Image-->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajesh545862&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh545862&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
 <p>
-  <img  align='center' width="200" src="https://github.com/rajesh545862/rajesh545862/blob/master/octocat.png">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,jquery" />
 </p>
- 
-### TOP LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh545862&theme=radical&title_color=8E2DE2&text_color=fff&width=100%)
 
-<!--Languages & Tools-->
-**Languages and Tools:**
+### Backend
 
-<code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
-</BR>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
-<code><img height="35" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
-<code><img height="30" src="https://img.icons8.com/fluent/50/000000/android-os.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/docker.png"></code>
-<br/>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
-<code><img height="30" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/django.png"></code>
-<code><img height="30" src="https://github.com/rajesh545862/rajesh545862/blob/master/flsak.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+### Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<!--Social Media-->
-**Social Media:**
+### DevOps & Cloud
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx,git" />
+</p>
 
-<a href="https://twitter.com/Rajesh_Osi" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/100/000000/twitter.png" alt="rajesh_Osi" height="36" width="36" /></a>
-<a href="https://instagram.com/rajesh.codes_" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/instagram.svg" alt="rajesh.codes_" height="30" width="30" /></a></br>
-<a href="https://www.linkedin.com/in/rajeshpaswan" target="blank"><img align="center" src="https://img.icons8.com/android/24/000000/linkedin.png" alt="Rajesh Paswan" height="30" width="30" /></a>
-<a href="https://dev.to/rajesh545862" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="Rajesh Paswan" height="50" width="35" /></a></br>
-<a href="https://codesandbox.io/u/Rajesh%20Paswan" target="blank"><img align="center" src="https://github.com/rajesh545862/rajesh545862/blob/master/codesandbox.png" alt="Rajesh Paswan" height="30" width="30" /></a>
-<a href="https://code" target="blank"><img align="center" src="https://img.icons8.com/metro/26/000000/facebook.png" alt="Rajesh Paswan" height="30" width="30" /></a>
+### Security & Operations
 
+* Server Hardening
+* Incident Response
+* CloudTrail Auditing
+* GuardDuty Monitoring
+* AWS Inspector
+* IAM Best Practices
+* Secure Nginx Configurations
+* Malware Investigation & Cleanup
+* API Security & Rate Limiting
 
+---
 
-<!--  SPOTIFY-->
+## 🚀 Featured Work
 
+* 🌐 Multiple business websites built with **Node.js + Express + EJS**
+* 🏨 **Maira Resort** ecosystem (website, membership platform, operations portal)
+* 🐳 Dockerized deployments using **GitHub Container Registry**
+* ⚙️ Automated deployments with **GitHub Actions and webhooks**
+* ☁️ AWS infrastructure using **EC2, S3, CloudWatch, CloudTrail, GuardDuty, and Inspector**
+* 🔒 Production server security hardening and incident remediation
 
+---
 
+## 📚 Currently Learning
+
+* Kubernetes
+* Terraform
+* DevSecOps Practices
+* Secure CI/CD Pipelines
+* Advanced AWS Architecture
+* Observability & Monitoring
+* Playwright E2E Testing
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajeshpaswan">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/rajesh.codes_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+
+  <a href="https://dev.to/rajesh545862">
+    <img src="https://skillicons.dev/icons?i=devto" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Where code meets infrastructure, and reliability meets security."</i>
+</p>
