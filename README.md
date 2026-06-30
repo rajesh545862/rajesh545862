@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Kubernetes, Terraform and DevSecOps practices**
 - 💻 I enjoy working with **Node.js, Next.js, TypeScript and AWS**
 - 🛡️ Interested in **security, Linux and production systems**
-- 📫 How to reach me: **rk.paswan5458@gmail.com**
+- 📫 How to reach me: **rajes.paswan10@gmail.com**
 
 <!--Visit Counter & Pronouns -->
 <p align="left">
